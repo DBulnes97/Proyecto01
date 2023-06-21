@@ -1,5 +1,5 @@
 # Quality Coffee Analysis  
-![coffee](https://github.com/DBulnes97/Quality-Coffee-Analysis/assets/109225064/0b3c5639-eb74-4f1c-a28b-984db5e7b62e) \\
+![coffee](https://github.com/DBulnes97/Quality-Coffee-Analysis/assets/109225064/0b3c5639-eb74-4f1c-a28b-984db5e7b62e) 
 
 From time to time and to survive the adult life we need the empowering beverage that keeps us awake and give the boost required to make the task less daunting and exhausting, and that beverage it's the coffee. The coffee has a lot of varieties across the world and it's dependent of the transformation process from coffee bean to the cup of coffee. To understand how the varieties change we need to focuse in the coffee quality analysis.
 
@@ -27,7 +27,7 @@ Coffee quality analysis involves various parameters that are assessed to determi
 
 * **Aftertaste:** Aftertaste is the lingering taste that remains in the mouth after swallowing the coffee. A desirable aftertaste is long-lasting, clean, and enjoyable. The mean aftertaste value for high-quality coffee typically ranges from 7 to 9.
 
-![coffee_tasting_flavor_wheel](https://github.com/DBulnes97/Quality-Coffee-Analysis/assets/109225064/b8c3b1de-332a-4b0e-a279-3e0759c9adbb)
+![coffee_tasting_flavor_wheel](https://github.com/DBulnes97/Quality-Coffee-Analysis/assets/109225064/b8c3b1de-332a-4b0e-a279-3e0759c9adbb =100*100)
 
 It's important to note that these mean values are general guidelines, and coffee quality can vary based on various factors such as origin, processing methods, roast level, and personal preferences. Additionally, coffee quality analysis often involves a sensory evaluation by trained professionals who assess these parameters subjectively, considering their individual expertise and taste preferences.
 
