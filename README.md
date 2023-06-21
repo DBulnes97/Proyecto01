@@ -30,7 +30,15 @@ Coffee quality analysis involves various parameters that are assessed to determi
 It's important to note that these mean values are general guidelines, and coffee quality can vary based on various factors such as origin, processing methods, roast level, and personal preferences. Additionally, coffee quality analysis often involves a sensory evaluation by trained professionals who assess these parameters subjectively, considering their individual expertise and taste preferences.
 
 # Coffee Quality Business Problem
+The main business problem we are going to analyze here it's related to the trends on the world related to coffee quality parameters. Coffee companies strive to maintain high-quality standards for their products. However, without effective quality control measures, there can be issues such as defects, contamination, or inconsistencies in flavor profiles. These problems can result in rejected batches, increased costs, and customer complaints. The next questions arise from the analysis: 
+1. What countries have the highest coffee quality parameters?
+2. What are the trends of coffee quality around the world?
+3. What is the most used method of coffee production?
+4. The altitude plays a important role in the coffee production?
+5. Which countries have more coffee production farms? 
 
 # Scope of Work of Coffee Quality Analysis
+The scope of work of this analysis it's going to be related to identify the profile trends of coffee quality parameters, identify which methods can be used to obtain high quality coffee production during all the transformation process and also to look for the coffee quality market around the world. This will consist in three mildstones steps during the analysis: 
+1. 
 
-#Summarize of Coffee Quality Dataset
+# Summarize of Coffee Quality Dataset
