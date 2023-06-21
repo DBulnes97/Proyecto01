@@ -39,6 +39,8 @@ The main business problem we are going to analyze here it's related to the trend
 
 # Scope of Work of Coffee Quality Analysis
 The scope of work of this analysis it's going to be related to identify the profile trends of coffee quality parameters, identify which methods can be used to obtain high quality coffee production during all the transformation process and also to look for the coffee quality market around the world. This will consist in three mildstones steps during the analysis: 
-1. 
+1. Cleaning Step: this step will be focused on deliver the state of the dataset: security, bias and completness of the dataset, in addition to steps of cleaning and formatting steps of the analysis.
+2. Statistical Analysis: this step will be focused on deliver the trends of coffee quality parameters around the world to answer the business questions related with this dataset. 
+3. Insights and Visualization Analysis: this last step will be focused on deliver the insights analysis by presenting the most impactul visualizations around the coffee quality analysis. 
 
 # Summarize of Coffee Quality Dataset
