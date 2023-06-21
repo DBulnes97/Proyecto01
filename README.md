@@ -27,6 +27,8 @@ Coffee quality analysis involves various parameters that are assessed to determi
 
 * **Aftertaste:** Aftertaste is the lingering taste that remains in the mouth after swallowing the coffee. A desirable aftertaste is long-lasting, clean, and enjoyable. The mean aftertaste value for high-quality coffee typically ranges from 7 to 9.
 
+![coffee_tasting_flavor_wheel](https://github.com/DBulnes97/Quality-Coffee-Analysis/assets/109225064/b8c3b1de-332a-4b0e-a279-3e0759c9adbb)
+
 It's important to note that these mean values are general guidelines, and coffee quality can vary based on various factors such as origin, processing methods, roast level, and personal preferences. Additionally, coffee quality analysis often involves a sensory evaluation by trained professionals who assess these parameters subjectively, considering their individual expertise and taste preferences.
 
 # Coffee Quality Business Problem
