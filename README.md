@@ -1,5 +1,5 @@
 # Quality Coffee Analysis  
-
+![Alt text](file:///C:/Users/Lenovo/Documents/Platzi/Google%20Data%20Analytics%20Certificate/Coffee_Quality_Dataset/coffee.jpeg)
 From time to time and to survive the adult life we need the empowering beverage that keeps us awake and give the boost required to make the task less daunting and exhausting, and that beverage it's the coffee. The coffee has a lot of varieties across the world and it's dependent of the transformation process from coffee bean to the cup of coffee. To understand how the varieties change we need to focuse in the coffee quality analysis.
 
 Coffee quality analysis involves various parameters that are assessed to determine the overall quality of coffee. These parameters provide valuable insights into the characteristics and flavor profile of the coffee. Here is a summary of some commonly used coffee quality analysis parameters and their mean values:
