@@ -46,3 +46,11 @@ The scope of work of this analysis it's going to be related to identify the prof
 3. **Insights and Visualization Analysis:** this last step will be focused on deliver the insights analysis by presenting the most impactul visualizations around the coffee quality analysis. 
 
 # Summarize of Coffee Quality Dataset
+The Coffee Quality Dataset has the next information related to the data: 
+* **Data Source:** Coffee Quality Institute (https://database.coffeeinstitute.org/)
+* **Data Location:** Kaggle from Fathi. B
+* **Data last update:** 1 month ago.
+* **Data Time Interval:** 2018 to May 2023.
+* **Privacy:** Public Dataset from Kaggle.
+* **Credibility and Bias:** At first impression the data it's not biased and has credibility by the data source of coffee quality institute updated to may of 2023.
+
