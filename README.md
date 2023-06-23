@@ -30,8 +30,8 @@ Coffee quality analysis involves various parameters that are assessed to determi
 ![coffee_tasting_flavor_wheel](https://github.com/DBulnes97/Quality-Coffee-Analysis/assets/109225064/b8c3b1de-332a-4b0e-a279-3e0759c9adbb|widht=20)
 
 It's important to note that these mean values are general guidelines, and coffee quality can vary based on various factors such as origin, processing methods, roast level, and personal preferences. Additionally, coffee quality analysis often involves a sensory evaluation by trained professionals who assess these parameters subjectively, considering their individual expertise and taste preferences. If you want to know more about coffee quality and the production process of coffee you can check out this video: 
-[Coffee Basics](https://www.youtube.com/watch?v=vFcS080VYQ0) 
-[Everything you've ever wanted to know about coffee | Chandler Graf | TEDxACU](https://www.youtube.com/watch?v=N8meCjVsJWI)
+* [Coffee Basics](https://www.youtube.com/watch?v=vFcS080VYQ0) -
+* [Everything you've ever wanted to know about coffee | Chandler Graf | TEDxACU](https://www.youtube.com/watch?v=N8meCjVsJWI)
 
 # Coffee Quality Business Problem
 The main business problem we are going to analyze here it's related to the trends on the world related to coffee quality parameters. Coffee companies strive to maintain high-quality standards for their products. However, without effective quality control measures, there can be issues such as defects, contamination, or inconsistencies in flavor profiles. These problems can result in rejected batches, increased costs, and customer complaints. The next questions arise from the analysis: 
