@@ -56,7 +56,7 @@ The Coffee Quality Dataset has the next information related to the data:
 * **Privacy:** Public Dataset from Kaggle.
 * **Credibility and Bias:** At first impression the data it's not biased and has credibility by the data source of coffee quality institute updated to may of 2023.
 * **Total Number of Columns:** 41
-* **Description of Columns:** [Data Dictionary]()
+* **Description of Columns:** [Data Dictionary](https://github.com/DBulnes97/Quality-Coffee-Analysis/blob/main/Documentation/Data%20Dictionary)
 
 
 
