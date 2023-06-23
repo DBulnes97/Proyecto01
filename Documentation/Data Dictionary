@@ -41,4 +41,17 @@ The columns in the Coffee Quality Dataset are 41 with the respective information
 39. Certification Body: data type object
 40. Certification Address: data type object
 41. Certification Contact: data type object
+
 In total there are 207 elements for each column and in total of nulls are: 153 of the total dataset. 
+Important parameters for coffee quality are: 
+* Aroma
+* Flavor
+* Aftertaste
+* Acidity
+* Body
+* Balance 
+* Uniformity
+* Color 
+* Moister Percentage
+
+Depending on this parameters the coffee of cup it's more or less expensive. 
